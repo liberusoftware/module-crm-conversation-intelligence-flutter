@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-conversation-intelligence-flutter",
+  "capabilityKey": "liberusoftware/module-crm-conversation-intelligence",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_conversation_intelligence_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/conversation-intelligence.md",
+  "presentationPlan": "projects/crm/flutter/conversation-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
